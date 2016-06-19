@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AMS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Apartment.cpp" />
+		<Unit filename="Apartment.h" />
+		<Unit filename="Employee.cpp" />
+		<Unit filename="Employee.h" />
+		<Unit filename="Flat.cpp" />
+		<Unit filename="Flat.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Manager.cpp" />
+		<Unit filename="Manager.h" />
+		<Unit filename="Member.cpp" />
+		<Unit filename="Member.h" />
+		<Unit filename="OwnedShop.cpp" />
+		<Unit filename="OwnedShop.h" />
+		<Unit filename="Person.cpp" />
+		<Unit filename="Person.h" />
+		<Unit filename="RentedShop.cpp" />
+		<Unit filename="RentedShop.h" />
+		<Unit filename="Resident.cpp" />
+		<Unit filename="Resident.h" />
+		<Unit filename="Resource.cpp" />
+		<Unit filename="Resource.h" />
+		<Unit filename="Security.cpp" />
+		<Unit filename="Shop.cpp" />
+		<Unit filename="Shop.h" />
+		<Unit filename="ShopOwner.cpp" />
+		<Unit filename="ShopOwner.h" />
+		<Unit filename="Utility.cpp" />
+		<Unit filename="Utility.h" />
+		<Unit filename="security.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

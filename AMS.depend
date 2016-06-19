@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1402231071 source:e:\academics\projects\ams\apartment.cpp
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+	<iostream>
+	"Apartment.h"
+
+1402231030 e:\academics\projects\ams\apartment.h
+	"Security.h"
+	"Flat.h"
+	"Shop.h"
+	"Employee.h"
+	"Resource.h"
+	"Utility.h"
+	<string>
+	<vector>
+	<iostream>
+
+1402216391 e:\academics\projects\ams\security.h
+	<iostream>
+	<fstream>
+	"Employee.h"
+	"Resource.h"
+	<vector>
+
+1402217989 e:\academics\projects\ams\employee.h
+	<iostream>
+	<string>
+	<fstream>
+	"Person.h"
+
+1402218266 e:\academics\projects\ams\person.h
+	<fstream>
+	<string>
+	<iostream>
+
+1402233826 e:\academics\projects\ams\resource.h
+	<iostream>
+	<string>
+	<fstream>
+
+1402135791 e:\academics\projects\ams\flat.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1402234196 e:\academics\projects\ams\shop.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1402230998 e:\academics\projects\ams\utility.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1402230805 source:e:\academics\projects\ams\employee.cpp
+	"Employee.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1402234875 source:e:\academics\projects\ams\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"Manager.h"
+	"Security.h"
+	"Apartment.h"
+	"Resident.h"
+	"ShopOwner.h"
+	"Employee.h"
+	"Resource.h"
+
+1402126325 e:\academics\projects\ams\manager.h
+	"Apartment.h"
+	"Resident.h"
+	"ShopOwner.h"
+	<vector>
+
+1402217960 e:\academics\projects\ams\resident.h
+	<fstream>
+	<string>
+	"Person.h"
+	"Flat.h"
+	<iostream>
+
+1402234209 e:\academics\projects\ams\shopowner.h
+	<string>
+	<iostream>
+	"Person.h"
+	"Shop.h"
+
+1402216850 source:e:\academics\projects\ams\manager.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<windows.h>
+	"Manager.h"
+
+1401772992 source:e:\academics\projects\ams\member.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	"Member.h"
+
+1401573212 e:\academics\projects\ams\member.h
+	<iostream>
+	<string>
+	<fstream>
+
+1401783116 source:e:\academics\projects\ams\ownedshop.cpp
+	"OwnedShop.h"
+
+1401796774 e:\academics\projects\ams\ownedshop.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"Shop.h"
+
+1402217698 source:e:\academics\projects\ams\person.cpp
+	"Person.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1401783118 source:e:\academics\projects\ams\rentedshop.cpp
+	"RentedShop.h"
+
+1401708086 e:\academics\projects\ams\rentedshop.h
+	"Shop.h"
+
+1402234241 source:e:\academics\projects\ams\resident.cpp
+	"Resident.h"
+	<string>
+
+1402233863 source:e:\academics\projects\ams\resource.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"Resource.h"
+
+1402216794 source:e:\academics\projects\ams\security.cpp
+	"security.h"
+	<string>
+	<iostream>
+	<fstream>
+	"Employee.h"
+	"Resource.h"
+
+1402234154 source:e:\academics\projects\ams\shop.cpp
+	"Shop.h"
+	<time.h>
+	<cstdlib>
+
+1402234281 source:e:\academics\projects\ams\shopowner.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	"ShopOwner.h"
+
+1402205490 source:e:\academics\projects\ams\utility.cpp
+	"Utility.h"
+
+1402139620 source:e:\academics\projects\ams\flat.cpp
+	<iostream>
+	<time.h>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"Flat.h"
+
